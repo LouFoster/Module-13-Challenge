@@ -1,0 +1,49 @@
+/* main elements */
+
+body {
+    background-color: teal;
+    background: linear-gradient(to right top, #65dfc9, #6cdbeb);
+    align-items: center;
+}
+
+a:link {
+    color: #003f5c;
+}
+
+a:visited {
+    color: #003f5c;
+}
+
+a:hover {
+    color: #c87d73;
+}
+
+
+/* div classes and ids*/
+
+.main-cont {
+    background-color: #f7f7f7;
+    border-radius: 1rem;
+}
+
+.white-box {
+    background-color: white;
+    border-radius: 7px;
+    width: 100%;
+    align-items: center;
+    padding: 12px;
+}
+
+.chart-title {
+    text-align: center;
+}
+
+#bubble-area {
+    padding: 8px;
+}
+
+.jumbotron {
+    background-color: white;
+    background: linear-gradient(to right bottom, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.4));
+    border-radius: 1rem;
+}
